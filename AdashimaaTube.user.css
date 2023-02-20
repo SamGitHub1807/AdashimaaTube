@@ -1240,11 +1240,6 @@ Support me: https://ko-fi.com/sapondanaisriwan
         border-radius: var(--BorderRadius) i; // border: none i;
     }
 
-    /* Add spacing for dislike counts (return youtube dislike)*/
-    .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--segmented-end span {
-        padding-left: 6px
-    }
-
     .yt-spec-touch-feedback-shape--touch-response .yt-spec-touch-feedback-shape__stroke {
         border: none;
     }
